@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797996363396",
+    "firebase_url": "https://flightapp-97787.firebaseio.com",
+    "project_id": "flightapp-97787",
+    "storage_bucket": "flightapp-97787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797996363396:android:b3be6407fde94a243e5cd1",
+        "android_client_info": {
+          "package_name": "com.example.flighttickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797996363396-m5a7v45jrh1l6g2qpr8n6kevtavkpb7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRS5VMq-cKQqVTiROh0E2GuLlpMGRuU7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797996363396-m5a7v45jrh1l6g2qpr8n6kevtavkpb7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
